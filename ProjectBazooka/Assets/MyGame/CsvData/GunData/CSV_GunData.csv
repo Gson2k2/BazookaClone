@@ -1,0 +1,4 @@
+GunID,GunName,GunPrice,GunStatus,GunRarity,GunModelID_Path
+1,Bazooka,2000,CanBuy,Common,Bazoka_1
+2,Panzerfaust,2900,CanBuy,Common,Panzerfaust_2
+3,RPG-7,7000,CanBuy,Common,RPG-7_3
